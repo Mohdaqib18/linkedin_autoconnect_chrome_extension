@@ -16,6 +16,7 @@ A google chrome extension that enables you to send connection request automatica
 Note: Try reloading the linkedIn search page in case Startbutton doesn't start sending request. 
 
 # LinkedIn AutoConnnect Chrome Extension in Action.
+![Chromeex](https://user-images.githubusercontent.com/37264147/220190258-0f7c1eb9-c5da-4373-8af9-bf37abe4d3ca.gif)
 
 
 
