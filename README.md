@@ -3,8 +3,9 @@ A google chrome extension that enables you to send connection request automatica
 
 
 #Install
-1. Download linkedin-autoconnect-chrome-extension.zip from the latest release of LinkedIn AutoConnect and unzip it.<br/><br/>
-2. Google to google chrome browser settings by clicking 3 dots on the toolbar -> settings, then click on extensions or just type chrome://extensions on your address bar and hit Enter.<br/><br/>
+
+1.Download linkedin-autoconnect-chrome-extension.zip from the latest release of LinkedIn AutoConnect and unzip it.<br/><br/>
+2.Google to google chrome browser settings by clicking 3 dots on the toolbar -> settings, then click on extensions or just type chrome://extensions on your address bar and hit Enter.<br/><br/>
 3.Now you're on chrome extensions page, toogle the Developer mode on on upper right corner of the page.<br/><br/>
 4.Now click on the load unpacked button.<br/><br/>
 5.Browse to the unzipped extension folder i.e root directory of manifest.json file, select it and click 'Open'.<br/><br/>
