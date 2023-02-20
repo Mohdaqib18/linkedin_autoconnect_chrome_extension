@@ -10,7 +10,7 @@ A google chrome extension that enables you to send connection request automatica
 4. Now click on the load unpacked button.<br/>
 5. Browse to the unzipped extension folder i.e root directory of manifest.json file, select it and click 'Open'.<br/>
 6. The extension  LinkedIn Autoconnect would now appear on the extension page, you can pin the extension by clicking the puzzle icon and then click pin icon.<br/>
-7. Now you can use the extension by clicking on it, which in case you are on any website url would show popup display search people on LinkedIn button, clicking on which    would Open a new tab navigation to linkedIn search people url.<br/>
+7. Now you can use the extension by clicking on it, which in case you are on any website url other than linkedIn search would show popup displaying search people on        LinkedIn button, clicking on which would Open a new tab navigating to linkedIn search people url.<br/>
 8. As you navigate to linkedIn search people url, clicking on the extension now would show different popup showing start connecting button, click on start connecting        button to start sending connection request automatically.<br/>
 
 Note: Try reloading the linkedIn search page in case Startbutton doesn't start sending request. 
